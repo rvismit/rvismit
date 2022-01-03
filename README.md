@@ -1,9 +1,9 @@
 # Namaste ! :pray:
 
-Hi, I'm Vismit Sudhir Rakhecha, Cyber Security practitioner capable of strategizing, architecting, building and maturing cyber security initiatives. Passionate about analyzing cyber security risks and translating them to actionable countermeasures.
+My name is Vismit Sudhir Rakhecha(Druk) and I'm a Penetration tester.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am working as a Sr. Security Analyst with significant expertise in the Web application, API, Mobile application, IoT & Network Penetration Testing. In free time, I do bug bounties. I delivered talks at various security conferences. I do write blogs about security findings, published mindmaps on IoT pentest and white paper on diffrent cyber security topics. My area of interest is IoT/OT attack/defence.
 
-💬 Ask me about anything in cyber security, I am happy to help;
-📫 How to reach me: chintangurjar@outlook.com
-🌐 Know more about me: https://iamthefrogy.github.io/ If you like what I do and share my knowledge with the community to create a better world, maybe consider buying me a coffee...☕
+I am an open-source enthusiast
+I love to contribute in local infosec meet
+A Hippie Traveler 
