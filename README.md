@@ -3,11 +3,11 @@
 I am Vismit Sudhir Rakhecha(Druk).
 
 **About Me:**
-
-Appsec Engineer
-IoT/OT Lover
-Infosec Speaker
-Open-source Enthusiast
-Love to contribute in Infosec Communities
-Bug Bounties 
+<br><br>
+Appsec Engineer<br>
+IoT/OT Lover<br>
+Infosec Speaker<br>
+Open-source Enthusiast<br>
+Love to contribute in Infosec Communities<br>
+Bug Bounties<br> 
 Hippie Traveler 
