@@ -16,7 +16,7 @@ I am Vismit Sudhir Rakhecha(Druk). A Hippie Geek.  <img src="https://github.com/
 <li>Pantheism
 </li>
   </table>
-  <br><br>
+  <br>
   <p align="center">If you want to buy a coffee for me<br><br>
  <a href="https://www.buymeacoffee.com/th3druk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="174"></a></a> </p>
  
