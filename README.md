@@ -3,7 +3,7 @@
 I am Vismit Sudhir Rakhecha(Druk). A Hippie Geek.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="45px" style="max-width: 100%;">
 
 
-**About Me:** <img src="https://github.com/rvismit/Druk/blob/main/giphy.gif" align="left" width="420px" height="262px" style="max-width: 100%;"> </img>
+**About Me:** <img src="https://github.com/rvismit/Druk/blob/main/giphy.gif" align="left" width="420px" height="264px" style="max-width: 100%;"> </img>
 <br>
 <table>
 <li>Working as Techinal Lead
