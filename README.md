@@ -14,6 +14,7 @@ I am Vismit Sudhir Rakhecha(Druk). A Hippie Geek.  <img src="https://github.com/
 <li>Bug Bounties 
 <li>Hippie Traveler 
 <li>Pantheism
+<li>Currently working on Gyanam
 </li>
   </table>
   <br>
