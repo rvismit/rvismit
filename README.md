@@ -19,5 +19,5 @@ I am Vismit Sudhir Rakhecha(Druk). A Hippie Geek.  <img src="https://github.com/
   <br>
   <p align="center">If you want to buy a coffee for me<br><br>
  <a href="https://www.buymeacoffee.com/th3druk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="42" width="174"></a></a> </p>
- <br><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rvismit"></img></p>
+
 
