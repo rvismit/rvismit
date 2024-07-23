@@ -6,7 +6,7 @@ I am Vismit Sudhir Rakhecha(Druk). A Hippie Geek.  <img src="https://github.com/
 **About Me:** <img src="https://github.com/rvismit/Druk/blob/main/giphy.gif" align="left" width="420px" height="262px" style="max-width: 100%;"> </img>
 <br>
 <table>
-<li>Working as Techinal Lead
+<li>Working as Principal Information Security Engineer
 <li>IoT/OT Lover
 <li>Infosec Speaker
 <li>Open-source Enthusiast
