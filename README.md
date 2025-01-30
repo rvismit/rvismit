@@ -13,7 +13,7 @@ I am Vismit Sudhir Rakhecha(Druk). A Hippie Geek.  <img src="https://github.com/
 <li>Love to contribute in Infosec Communities
 <li>Bug Bounties 
 <li>Hippie Traveler 
-<li>Pantheism
+<li>Ham Radio</li>
 </li>
   </table>
   <br>
