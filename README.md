@@ -1,4 +1,4 @@
-# Namaste ! 
+# Hello ! 
 
 I am Vismit Sudhir Rakhecha(Druk). A Hippie Geek.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="45px" style="max-width: 100%;">
 
